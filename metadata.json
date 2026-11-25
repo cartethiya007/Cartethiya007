@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "A responsive anime voice assistant powered by Gemini with voice input, text-to-speech voice selection, and quick app launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
